@@ -41,7 +41,7 @@ Improved-RRT-Path-Planning/
 
 ---
 
-## ⚙Installation
+## Installation
 ```bash
 git clone https://github.com/KRYSTALM7/Improved-RRT-Path-Planning.git
 cd Improved-RRT-Path-Planning
